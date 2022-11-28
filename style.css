@@ -1,0 +1,31 @@
+.heading
+{
+    width: 100%;
+    font-size: 25px; 
+}
+#Start
+{
+    font-size: 18px;
+}
+canvas
+{
+    border: 5px solid white;
+    border-radius: 20px;
+    margin-top: 100px;
+}
+body
+{
+    background-size: cover;
+}
+.copy_right_footer
+{
+    position: fixed;
+    color: white;
+    background-color:grey;
+    bottom: 0;
+    line-height: 3;
+    text-align: center;
+    width: 100%;
+    font-weight: bold;
+    font-size: 15spx;
+}
